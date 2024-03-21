@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href=”https://twitter.com/ibeerens"><img src=”https://img.shields.io/twitter/follow/ibeerens?label=Follow&style=social"></a>
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
