@@ -1,6 +1,6 @@
 ### About me:
 
-End user computing, modern device management, datacenters, automation <br>
+End User Computing, Azure Virtual Desktop, DAAS, modern device management, datacenters and automation <br>
 blogger @ www.ivobeerens.nl <br>
 Solution consultant and DAAS team lead @ www.ictivity.nl <br>
 
