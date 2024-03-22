@@ -1,8 +1,8 @@
 ### About me:
 
 End user computing, modern device management, datacenters, automation <br>
-blogger at: www.ivobeerens.nl <br>
-Solution consultant and DAAS team lead www.ictivity.nl <br>
+blogger @ www.ivobeerens.nl <br>
+Solution consultant and DAAS team lead @ www.ictivity.nl <br>
 
 <!--
 **ibeerens/ibeerens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
