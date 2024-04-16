@@ -1,5 +1,6 @@
 ### About me:
 
+vExpert and HashiCorp Ambassador
 End User Computing, Azure Virtual Desktop, DAAS, modern device management, datacenters and automation <br>
 blogger @ www.ivobeerens.nl <br>
 Solution consultant and DAAS team lead @ www.ictivity.nl <br>
