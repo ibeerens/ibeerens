@@ -1,6 +1,6 @@
 ### About me:
 
-vExpert and HashiCorp Ambassador
+vExpert and HashiCorp Ambassador 2024
 
 End User Computing, Azure Virtual Desktop, DAAS, modern device management, datacenters and automation <br>
 blogger @ www.ivobeerens.nl <br>
